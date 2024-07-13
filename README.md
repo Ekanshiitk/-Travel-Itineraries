@@ -5,7 +5,8 @@ Project goal. The goal of my project is to optimize travel routes for a delivery
 
 Here is an illustration of my pipeline: data -> machine learning -> optimization with genetic algorithm
 
-screen shot 2018-04-12 at 2 03 39 am
+![image](https://github.com/user-attachments/assets/23066670-2b3a-461a-8da1-78734b7ccf30)
+
 
 Data and Features. New York City taxi data set was taken from here, with an additional New York City weather dataset obtained from Kaggle.
 
